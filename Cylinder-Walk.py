@@ -151,7 +151,6 @@ def graph(final):
     ax.set_xlabel('Position $x_1$')
     ax.set_ylabel('Position $x_2$')
     ax.set_zlabel('Probability');
-    #plt.savefig('/Users/Elena/Library/Mobile Documents/com~apple~CloudDocs/Documents/Durham/Dissertation/Plots/Cylinder_15x15.png')
     plt.show()
 
 graph(final)
