@@ -1,3 +1,5 @@
+# 2D Hadamard Walk using the Simulator.simulate() function from Cirq
+
 import cirq
 import random
 import numpy as np
